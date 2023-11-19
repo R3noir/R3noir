@@ -12,6 +12,4 @@ Interested in:🔎 Data Sciences & Machine Learning
 Learning 👨‍💻: Front End Development (Frustrated)
 Main Languages 📝: Java, C#, Python
 ```
-```
-Main Languages 📝: Java, C#, Python <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&random=true&width=1068&height=70&lines=Aspiring+Machine+Learning+Engineer+from+the+Philippines" alt="Typing SVG" /></a>
-```
+
