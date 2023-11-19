@@ -2,12 +2,14 @@
 <img align="center" src="assets/Header.gif"/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=40&duration=2500&pause=250&color=FFFFFF&center=true&vCenter=true&repeat=false&random=true&width=1068&height=80&lines=Hi!+I'm+Clarence+Robedillo+(R3noir)" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&random=true&width=1068&height=70&lines=Aspiring+Machine+Learning+Engineer+from+the+Philippines" alt="Typing SVG" /></a>
+
+
 <section>
-<img align="left" src="assets/Left.gif" width="250">
+<img align="left" src="assets/Left.gif" width="250" height="325">
 <div class="row" align="center">
   <h2> <strong> Actively Learning (Strong Suits)</strong></h2>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,cs,py,tensorflow,mysql,pr,ps" title="skills actively learning logos">
+    <img src="https://skillicons.dev/icons?i=java,cs,py,tensorflow,mysql,pr,ps">
   </p>
 <p align="center">
   <h2> <strong> Trying to Learn </strong></h2>
@@ -22,6 +24,8 @@ Learning 👨‍💻: Front End Development (Frustrated)
 <br>
 Main Languages 📝: Java, C#, Python
 </section>
+
+
 <section>
 <details> 
   <summary><h2>📘 Portfolio</h2></summary>
@@ -51,11 +55,9 @@ Main Languages 📝: Java, C#, Python
   </p>
 </details>
 </section>
-</div>
+</div>linkedin
 <section>
   <h3 align="center"> <strong> Connect With Me </strong></h3>
-
-  [<img align="center" src="https://img.icons8.com/doodle/96/000000/spotify.png" width="50" title="spotify">](https://open.spotify.com/user/3155dbfmkqw2jherqaypz4ieadxm?si=e47272ee106f4127)
-  [<img align="center" src="https://img.icons8.com/doodle/96/5eT5OnLluNOx/instagram.png" width="50" title="spotify">](https://www.instagram.com/aouiara/?hl=en)
-
+    <a href="https://ph.linkedin.com/in/clarence-robedillo-211778188"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="50" title="spotify"></a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Robedillo11@gmail.com.com&su=SUBJECT&body=BODY"><img align="center" src="https://icons8.com/icon/qyRpAggnV0zH/gmail" width="50" title="spotify"></a>
 </section>
