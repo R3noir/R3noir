@@ -3,18 +3,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=40&duration=2500&pause=250&color=FFFFFF&center=true&vCenter=true&repeat=false&random=true&width=1068&height=80&lines=Hi!+I'm+Clarence+Robedillo+(R3noir)" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&random=true&width=1068&height=70&lines=Aspiring+Machine+Learning+Engineer+from+the+Philippines" alt="Typing SVG" /></a>
 
-<div>
+
 <img align="left" src="assets/Left.gif" width=270>
-
-
-
-<p align="center"> 
-  <img src="assets/food.gif" width="950px" title="Food is Life!"/> 
-</p>
-
-  <img align="left" src="assets/city.gif" title="Fav city scene" width="400"/>
-  <br></br>  
-  
 <div class="row" align="center">
   <img align="center" src="assets/ramen.gif" width="150" title="Yum!">
   <h2> <strong> Actively Learning (Strong Suits)</strong></h2>
@@ -25,5 +15,4 @@
   <h2> <strong> Planning to Learn </strong></h2>
   <img src="https://skillicons.dev/icons?i=react,bootstrap,ts,c,linux,rust,go">
 </p>
-</div>
 </div>
