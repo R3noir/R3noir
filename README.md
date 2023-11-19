@@ -22,3 +22,17 @@ Interested in:🔎 Data Sciences & Machine Learning
 Learning 👨‍💻: Front End Development (Frustrated)
 <br>
 Main Languages 📝: Java, C#, Python
+<details open> 
+  <summary><h2>📘 My Projects</h2></summary>
+  <img align="center" src="assets/Header.gif"/>
+  <p align="Center">
+    (Coming Soon)™️
+  </p>
+</details>
+<details open> 
+  <summary><h2>⭐ Achievements</h2></summary>
+  <img align="center" src="assets/Header.gif"/>
+  <p align="Center">
+    (Coming Soon)™️
+  </p>
+</details>
