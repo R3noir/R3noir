@@ -41,8 +41,8 @@ Main Languages 📝: Java, C#, Python
   <img align="center" src="assets/Achievements.gif">
   <h3>Academic Achievements</h3>
   <p align="Center">
-     <a href="#">SM Foundation Scholar (Full Ride)</a>
-     <a href="#">Consistent 1st Honor Dean's Lister 1st - 2nd Year</a>
+     <a>SM Foundation Scholar (Full Ride)</a><br>
+     <a>Consistent 1st Honor Dean's Lister 1st - 2nd Year</a>
   </p>
     <h3>Other Achievements</h3>
   <p align="Center">
