@@ -22,6 +22,9 @@ Learning 👨‍💻: Front End Development (Frustrated)
 <br>
 Main Languages 📝: Java, C#, Python
 <br>
+<br>
+<br>
+<br>
 </div>
 <details open> 
   <summary><h2>📘 My Projects</h2></summary>
