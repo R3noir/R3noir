@@ -2,8 +2,8 @@
 <img align="center" src="assets/Header.gif"/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=40&duration=2500&pause=250&color=FFFFFF&center=true&vCenter=true&repeat=false&random=true&width=1068&height=80&lines=Hi!+I'm+Clarence+Robedillo+(R3noir)" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&random=true&width=1068&height=70&lines=Aspiring+Machine+Learning+Engineer+from+the+Philippines" alt="Typing SVG" /></a>
-<div>
-<img align="left" src="assets/Left.gif" width="250" height="325">
+<section>
+<img align="left" src="assets/Left.gif" width="250">
 <div class="row" align="center">
   <h2> <strong> Actively Learning (Strong Suits)</strong></h2>
   <p align="center">
@@ -21,7 +21,8 @@ Interested in:🔎 Data Sciences & Machine Learning
 Learning 👨‍💻: Front End Development (Frustrated)
 <br>
 Main Languages 📝: Java, C#, Python
-</div>
+</section>
+<section>
 <details> 
   <summary><h2>📘 Portfolio</h2></summary>
   <img align="center" src="assets/Header.gif"/>
@@ -49,4 +50,12 @@ Main Languages 📝: Java, C#, Python
     (Coming Soon)™️
   </p>
 </details>
+</section>
 </div>
+<section>
+  <h3 align="center"> <strong> Connect With Me </strong></h3>
+
+  [<img align="center" src="https://img.icons8.com/doodle/96/000000/spotify.png" width="50" title="spotify">](https://open.spotify.com/user/3155dbfmkqw2jherqaypz4ieadxm?si=e47272ee106f4127)
+  [<img align="center" src="https://img.icons8.com/doodle/96/5eT5OnLluNOx/instagram.png" width="50" title="spotify">](https://www.instagram.com/aouiara/?hl=en)
+
+</section>
