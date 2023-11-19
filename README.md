@@ -9,16 +9,19 @@
   <img align="center" src="assets/ramen.gif" width="150" title="Yum!">
   <h2> <strong> Actively Learning (Strong Suits)</strong></h2>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,cs,py,tensorflow,pr,ps" title="skills actively learning logos">
+    <img src="https://skillicons.dev/icons?i=java,cs,py,tensorflow,mysql,pr,ps" title="skills actively learning logos">
   </p>
 <p align="center">
   <h2> <strong> Trying to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,react,bootstrap,ts,rust,go">
+  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,react,bootstrap,ts,rust,go,pytorch">
 </p>
-```
+<code>
 Education🎓: Computer Science with Specialization in Machine Learning (3rd Year)
+<br></br>
 Interested in:🔎 Data Sciences & Machine Learning
+<br></br>
 Learning 👨‍💻: Front End Development (Frustrated)
+<br></br>
 Main Languages 📝: Java, C#, Python
-```
+</code>
 </div>
