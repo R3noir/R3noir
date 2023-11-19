@@ -56,8 +56,8 @@ Main Languages 📝: Java, C#, Python
 </details>
 </section>
 </div>linkedin
-<section>
+<section align="center">
   <h3 align="center"> <strong> Connect With Me </strong></h3>
     <a href="https://ph.linkedin.com/in/clarence-robedillo-211778188"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="50" title="spotify"></a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Robedillo11@gmail.com.com&su=SUBJECT&body=BODY"><img align="center" src="https://icons8.com/icon/qyRpAggnV0zH/gmail" width="50" title="spotify"></a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Robedillo11@gmail.com.com&su=SUBJECT&body=BODY"><img align="center" src="https://icons8.com/icon/qyRpAggnV0zH/gmail" width="50"></a>
 </section>
