@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=40&duration=2500&pause=250&color=FFFFFF&center=true&vCenter=true&repeat=false&random=true&width=1068&height=80&lines=Hi!+I'm+Clarence+Robedillo+(R3noir)" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&random=true&width=1068&height=70&lines=Aspiring+Machine+Learning+Engineer+from+the+Philippines" alt="Typing SVG" /></a>
 <div>
-<img align="left" src="assets/Left.gif" width="250" height="335">
+<img align="left" src="assets/Left.gif" width="250" height="325">
 <div class="row" align="center">
   <h2> <strong> Actively Learning (Strong Suits)</strong></h2>
   <p align="center">
@@ -21,10 +21,6 @@ Interested in:🔎 Data Sciences & Machine Learning
 Learning 👨‍💻: Front End Development (Frustrated)
 <br>
 Main Languages 📝: Java, C#, Python
-<br>
-<br>
-<br>
-<br>
 </div>
 <details open> 
   <summary><h2>📘 My Projects</h2></summary>
