@@ -13,3 +13,21 @@ Learning 👨‍💻: Front End Development (Frustrated)
 Main Languages 📝: Java, C#, Python
 ```
 
+<p align="center"> 
+  <img src="assets/food.gif" width="950px" title="Food is Life!"/> 
+</p>
+
+  <img align="left" src="assets/city.gif" title="Fav city scene" width="400"/>
+  <br></br>  
+  
+<div class="row" align="center">
+  <img align="center" src="assets/ramen.gif" width="150" title="Yum!">
+  <h2> <strong> Actively Learning (Strong Suits)</strong></h2>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=java,cs,py,tensorflow,pr,ps" title="skills actively learning logos">
+  </p>
+<p align="center">
+  <h2> <strong> Planning to Learn </strong></h2>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,ts,c,linux,rust,go">
+</p>
+<div>
