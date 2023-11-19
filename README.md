@@ -21,8 +21,8 @@ Interested in:🔎 Data Sciences & Machine Learning
 Learning 👨‍💻: Front End Development (Frustrated)
 <br>
 Main Languages 📝: Java, C#, Python
+<br>
 </div>
-<div align=left>
 <details open> 
   <summary><h2>📘 My Projects</h2></summary>
   <img align="center" src="assets/Header.gif"/>
@@ -37,5 +37,5 @@ Main Languages 📝: Java, C#, Python
     (Coming Soon)™️
   </p>
 </details>
-</div>
+
 </div>
