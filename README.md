@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&random=true&width=1068&height=70&lines=Aspiring+Machine+Learning+Engineer+from+the+Philippines" alt="Typing SVG" /></a>
 
 
-<img align="left" src="assets/Left.gif" width=290>
+<img align="left" src="assets/Left.gif" width=275>
 <div class="row" align="center">
   <h2> <strong> Actively Learning (Strong Suits)</strong></h2>
   <p align="center">
