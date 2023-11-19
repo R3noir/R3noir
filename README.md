@@ -15,4 +15,10 @@
   <h2> <strong> Planning to Learn </strong></h2>
   <img src="https://skillicons.dev/icons?i=react,bootstrap,ts,c,linux,rust,go">
 </p>
+```
+Education🎓: Computer Science with Specialization in Machine Learning (3rd Year)
+Interested in:🔎 Data Sciences & Machine Learning
+Learning 👨‍💻: Front End Development (Frustrated)
+Main Languages 📝: Java, C#, Python
+```
 </div>
