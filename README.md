@@ -4,11 +4,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&random=true&width=1068&height=70&lines=Aspiring+Machine+Learning+Engineer+from+the+Philippines" alt="Typing SVG" /></a>
 
 
-<img align="left" src="assets/Left.gif" width="534" height='270'>
+<img align="left" src="assets/Left.gif" height='270'>
 
-`
+```
 Education🎓: Computer Science with Specialization in Machine Learning (3rd Year)
 Interested in:🔎 Data Sciences & Machine Learning
 Learning 👨‍💻: Front End Development (Frustrated)
 Main Languages 📝: Java, C#, Python
-`
+```
+```
+Main Languages 📝: Java, C#, Python <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&duration=1&color=FFFFFF&center=true&vCenter=true&repeat=false&random=true&width=1068&height=70&lines=Aspiring+Machine+Learning+Engineer+from+the+Philippines" alt="Typing SVG" /></a>
+```
