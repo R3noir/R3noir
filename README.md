@@ -15,10 +15,8 @@
   <h2> <strong> Trying to Learn </strong></h2>
   <img src="https://skillicons.dev/icons?i=html,css,js,laravel,react,bootstrap,ts,rust,go,pytorch">
 </p>
-<code>
 Education🎓: Computer Science with Specialization in Machine Learning (3rd Year)
 Interested in:🔎 Data Sciences & Machine Learning
 Learning 👨‍💻: Front End Development (Frustrated)
 Main Languages 📝: Java, C#, Python
-</code>
 </div>
