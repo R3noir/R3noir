@@ -22,19 +22,31 @@ Learning 👨‍💻: Front End Development (Frustrated)
 <br>
 Main Languages 📝: Java, C#, Python
 </div>
-<details open> 
+<details> 
+  <summary><h2>📘 Portfolio</h2></summary>
+  <img align="center" src="assets/Header.gif"/>
+  <p align="Center">
+    (Coming Soon)™️
+  </p>
+</details>
+<details> 
   <summary><h2>📘 My Projects</h2></summary>
   <img align="center" src="assets/Header.gif"/>
   <p align="Center">
     (Coming Soon)™️
   </p>
 </details>
-<details open> 
+<details> 
   <summary><h2>⭐ Achievements</h2></summary>
-  <img align="center" src="assets/Header.gif"/>
+  <img align="center" src="assets/Achievements.gif">
+  <h3>Academic Achievements</h3>
+  <p align="Center">
+     <a href="#">SM Foundation Scholar (Full Ride)</a>
+     <a href="#">Consistent 1st Honor Dean's Lister 1st - 2nd Year</a>
+  </p>
+    <h3>Other Achievements</h3>
   <p align="Center">
     (Coming Soon)™️
   </p>
 </details>
-
 </div>
