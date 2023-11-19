@@ -5,8 +5,7 @@
 
 
 <img align="left" src="assets/Left.gif" width=270>
-<div class="row" align="center">
-  <img align="center" src="assets/ramen.gif" width="150" title="Yum!">
+<div class="row">
   <h2> <strong><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=900&size=28&duration=1&color=FFFFFF&repeat=false&random=false&width=780&lines=Actively+Learning+(Strong+Suits)" alt="Typing SVG" /></a></strong></h2>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=java,cs,py,tensorflow,pr,ps" title="skills actively learning logos">
