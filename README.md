@@ -6,7 +6,7 @@
 
 <img align="left" src="assets/Left.gif" width="270">
 
-<code>
+<code align="justify">
 Education🎓: Computer Science with Specialization in Machine Learning (3rd Year)
 Interested in:🔎 Data Sciences & Machine Learning
 Learning 👨‍💻: Front End Development (Frustrated)
