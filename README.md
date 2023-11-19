@@ -6,12 +6,7 @@
 <div>
 <img align="left" src="assets/Left.gif" width=270>
 
-```
-Education🎓: Computer Science with Specialization in Machine Learning (3rd Year)
-Interested in:🔎 Data Sciences & Machine Learning
-Learning 👨‍💻: Front End Development (Frustrated)
-Main Languages 📝: Java, C#, Python
-```
+
 
 <p align="center"> 
   <img src="assets/food.gif" width="950px" title="Food is Life!"/> 
