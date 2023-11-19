@@ -16,7 +16,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,laravel,react,bootstrap,ts,rust,go,pytorch">
 </p>
 Education🎓: Computer Science with Specialization in Machine Learning (3rd Year)
+<br></br>
 Interested in:🔎 Data Sciences & Machine Learning
+<br></br>
 Learning 👨‍💻: Front End Development (Frustrated)
+<br></br>
 Main Languages 📝: Java, C#, Python
+<br></br>
 </div>
